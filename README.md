@@ -35,11 +35,9 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="192px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asadbek-Mirmahmudov&show_icons=true&theme=radical&hide_border=true" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadbek-Mirmahmudov&theme=radical&hide_border=true" height="192px" alt="GitHub Streak" />
 </p>
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username to see your live statistics)*
 
 <br />
 
