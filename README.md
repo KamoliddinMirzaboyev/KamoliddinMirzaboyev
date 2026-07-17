@@ -31,7 +31,7 @@
   <br />
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamoliddinmirzaboyev05&layout=compact&theme=react&hide_border=true&custom_title=Most%20Used%20Languages" height="195px" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kamoliddinmirzaboyev05&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;custom_title=Most%20Used%20Languages" height="195px" alt="Top Languages" />
   </p>
 
   <br />
@@ -39,7 +39,7 @@
   <h2 align="center">📊 GitHub Stats</h2>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kamoliddinmirzaboyev05&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="195px" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Kamoliddinmirzaboyev05&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="195px" alt="GitHub Stats" />
   </p>
   
   <br />
@@ -47,7 +47,7 @@
   <h2 align="center">🔥 GitHub Streak</h2>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamoliddinmirzaboyev05&theme=react&hide_border=true" height="195px" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamoliddinmirzaboyev05&amp;theme=react&amp;hide_border=true" height="195px" alt="GitHub Streak" />
   </p>
 
   <br />
