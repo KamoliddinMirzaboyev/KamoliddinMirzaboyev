@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1 align="center">Asadbek Mirmahmudov</h1>
+  <h1 align="center">Kamoliddin Mirzaboyev</h1>
   <h3 align="center">Frontend Developer & Mentor | React & Next.js Enthusiast</h3>
   
   <p align="center">
