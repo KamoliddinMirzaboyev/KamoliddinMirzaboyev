@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1 align="center">Kamoliddin Mirzaboyev</h1>
-  <h3 align="center">Frontend Developer & Mentor | React & Next.js Enthusiast</h3>
+  <h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
   
   <p align="center">
     <a href="https://github.com/Kamoliddinmirzaboyev05">
