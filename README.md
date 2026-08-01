@@ -20,7 +20,8 @@
     <img src="https://komarev.com/ghpvc/?username=KamoliddinMirzaboyev&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/KamoliddinMirzaboyev?label=Followers&style=flat-square&color=238636" alt="Followers" />
     <img src="https://img.shields.io/badge/Location-Fergana%2C%20Uzbekistan-0D1117?style=flat-square&labelColor=21262D&color=58A6FF" alt="Location" />
-    <img src="https://img.shields.io/badge/Open%20to-Opportunities-238636?style=flat-square" alt="Open to work" />
+    <img src="https://img.shields.io/badge/Experience-1%2B%20years-238636?style=flat-square" alt="Experience" />
+    <a href="https://webportfoli.uz"><img src="https://img.shields.io/badge/Portfolio-webportfoli.uz-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 
 </div>
@@ -29,16 +30,18 @@
 
 ### About me
 
-**Frontend-focused full-stack developer** from Fergana, Uzbekistan.  
+**Frontend-focused full-stack developer** with **1+ years** of experience · Fergana, Uzbekistan.  
 Student at **FBTUIT** · building production-ready admin panels, edtech products, and multi-role web systems.
 
 I turn product ideas into clean UI, solid TypeScript architecture, and reliable backends — from student dorm platforms to IELTS learning tools and digital menus.
 
 | | |
 |:--|:--|
+| **Experience** | 1+ years |
 | **Focus** | React / Next.js · Admin dashboards · Multi-tenant apps |
 | **Backend** | Python (Django / FastAPI-style APIs) · NestJS · REST |
 | **Currently** | Shipping real products: JoyBor, IELTSIFY, Dastyor, GoBron |
+| **Portfolio** | [webportfoli.uz](https://webportfoli.uz) |
 | **Based in** | Fergana, Uzbekistan · 2005 |
 
 ---
@@ -194,6 +197,9 @@ Workflow   →  Git · GitHub · Docker · Postman · Figma · Vercel
 
 <div align="center">
 
+  <a href="https://webportfoli.uz">
+    <img src="https://img.shields.io/badge/Portfolio-webportfoli.uz-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:kamoliddinmirzaboyev2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-kamoliddinmirzaboyev2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -201,12 +207,12 @@ Workflow   →  Git · GitHub · Docker · Postman · Figma · Vercel
     <img src="https://img.shields.io/badge/GitHub-KamoliddinMirzaboyev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/KamoliddinMirzaboyev?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Browse%20all-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+    <img src="https://img.shields.io/badge/Repos-Browse%20all-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
 
   <br/><br/>
 
-  📍 **Fergana, Uzbekistan** · ✉️ **kamoliddinmirzaboyev2005@gmail.com**
+  🌐 **[webportfoli.uz](https://webportfoli.uz)** · 📍 **Fergana, Uzbekistan** · ✉️ **kamoliddinmirzaboyev2005@gmail.com**
 
   <br/>
 
