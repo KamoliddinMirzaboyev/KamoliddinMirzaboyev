@@ -200,6 +200,9 @@ Workflow   →  Git · GitHub · Docker · Postman · Figma · Vercel
   <a href="https://webportfoli.uz">
     <img src="https://img.shields.io/badge/Portfolio-webportfoli.uz-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://t.me/MrMirzaboyev">
+    <img src="https://img.shields.io/badge/Telegram-MrMirzaboyev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="mailto:kamoliddinmirzaboyev2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-kamoliddinmirzaboyev2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -212,7 +215,7 @@ Workflow   →  Git · GitHub · Docker · Postman · Figma · Vercel
 
   <br/><br/>
 
-  🌐 **[webportfoli.uz](https://webportfoli.uz)** · 📍 **Fergana, Uzbekistan** · ✉️ **kamoliddinmirzaboyev2005@gmail.com**
+  🌐 **[webportfoli.uz](https://webportfoli.uz)** · 💬 **[@MrMirzaboyev](https://t.me/MrMirzaboyev)** · 📍 **Fergana, Uzbekistan** · ✉️ **kamoliddinmirzaboyev2005@gmail.com**
 
   <br/>
 
