@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/followers/KamoliddinMirzaboyev?label=Followers&style=flat-square&color=238636" alt="Followers" />
     <img src="https://img.shields.io/badge/Location-Fergana%2C%20Uzbekistan-0D1117?style=flat-square&labelColor=21262D&color=58A6FF" alt="Location" />
     <img src="https://img.shields.io/badge/Experience-1%2B%20years-238636?style=flat-square" alt="Experience" />
-    <a href="https://webportfoli.uz"><img src="https://img.shields.io/badge/Portfolio-webportfoli.uz-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://webportfolio.uz"><img src="https://img.shields.io/badge/Portfolio-webportfolio.uz-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 
 </div>
@@ -41,7 +41,7 @@ I turn product ideas into clean UI, solid TypeScript architecture, and reliable 
 | **Focus** | React / Next.js · Admin dashboards · Multi-tenant apps |
 | **Backend** | Python (Django / FastAPI-style APIs) · NestJS · REST |
 | **Currently** | Shipping real products: JoyBor, IELTSIFY, Dastyor, GoBron |
-| **Portfolio** | [webportfoli.uz](https://webportfoli.uz) |
+| **Portfolio** | [webportfolio.uz](https://webportfolio.uz) |
 | **Based in** | Fergana, Uzbekistan · 2005 |
 
 ---
@@ -197,8 +197,8 @@ Workflow   →  Git · GitHub · Docker · Postman · Figma · Vercel
 
 <div align="center">
 
-  <a href="https://webportfoli.uz">
-    <img src="https://img.shields.io/badge/Portfolio-webportfoli.uz-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://webportfolio.uz">
+    <img src="https://img.shields.io/badge/Portfolio-webportfolio.uz-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://t.me/MrMirzaboyev">
     <img src="https://img.shields.io/badge/Telegram-MrMirzaboyev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -215,7 +215,7 @@ Workflow   →  Git · GitHub · Docker · Postman · Figma · Vercel
 
   <br/><br/>
 
-  🌐 **[webportfoli.uz](https://webportfoli.uz)** · 💬 **[@MrMirzaboyev](https://t.me/MrMirzaboyev)** · 📍 **Fergana, Uzbekistan** · ✉️ **kamoliddinmirzaboyev2005@gmail.com**
+  🌐 **[webportfolio.uz](https://webportfolio.uz)** · 💬 **[@MrMirzaboyev](https://t.me/MrMirzaboyev)** · 📍 **Fergana, Uzbekistan** · ✉️ **kamoliddinmirzaboyev2005@gmail.com**
 
   <br/>
 
